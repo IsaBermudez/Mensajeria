@@ -1,0 +1,14 @@
+C:\Users\Isabella\source\repos\Mensajeria_Instantanea\Mensajeria_Instantanea\bin\Debug\net8.0\Mensajeria_Instantanea.exe
+C:\Users\Isabella\source\repos\Mensajeria_Instantanea\Mensajeria_Instantanea\bin\Debug\net8.0\Mensajeria_Instantanea.deps.json
+C:\Users\Isabella\source\repos\Mensajeria_Instantanea\Mensajeria_Instantanea\bin\Debug\net8.0\Mensajeria_Instantanea.runtimeconfig.json
+C:\Users\Isabella\source\repos\Mensajeria_Instantanea\Mensajeria_Instantanea\bin\Debug\net8.0\Mensajeria_Instantanea.dll
+C:\Users\Isabella\source\repos\Mensajeria_Instantanea\Mensajeria_Instantanea\bin\Debug\net8.0\Mensajeria_Instantanea.pdb
+C:\Users\Isabella\source\repos\Mensajeria_Instantanea\Mensajeria_Instantanea\obj\Debug\net8.0\Mensajeria_Instantanea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabella\source\repos\Mensajeria_Instantanea\Mensajeria_Instantanea\obj\Debug\net8.0\Mensajeria_Instantanea.AssemblyInfoInputs.cache
+C:\Users\Isabella\source\repos\Mensajeria_Instantanea\Mensajeria_Instantanea\obj\Debug\net8.0\Mensajeria_Instantanea.AssemblyInfo.cs
+C:\Users\Isabella\source\repos\Mensajeria_Instantanea\Mensajeria_Instantanea\obj\Debug\net8.0\Mensajeria_Instantanea.csproj.CoreCompileInputs.cache
+C:\Users\Isabella\source\repos\Mensajeria_Instantanea\Mensajeria_Instantanea\obj\Debug\net8.0\Mensajeria_Instantanea.dll
+C:\Users\Isabella\source\repos\Mensajeria_Instantanea\Mensajeria_Instantanea\obj\Debug\net8.0\refint\Mensajeria_Instantanea.dll
+C:\Users\Isabella\source\repos\Mensajeria_Instantanea\Mensajeria_Instantanea\obj\Debug\net8.0\Mensajeria_Instantanea.pdb
+C:\Users\Isabella\source\repos\Mensajeria_Instantanea\Mensajeria_Instantanea\obj\Debug\net8.0\Mensajeria_Instantanea.genruntimeconfig.cache
+C:\Users\Isabella\source\repos\Mensajeria_Instantanea\Mensajeria_Instantanea\obj\Debug\net8.0\ref\Mensajeria_Instantanea.dll
